@@ -33,9 +33,17 @@ Display name: PC1
 Model: PC-PT
 IP address: 210.3.14.5
 
+Display name: PC4
+Model: PC-PT
+IP address: 210.3.14.6
+
 Display name: PC2
 Model: PC-PT
 IP address: 168.90.0.3
+
+Display name: PC3
+Model: PC-PT
+IP address: 168.90.0.5
 
 
 Display name: Laptop0
